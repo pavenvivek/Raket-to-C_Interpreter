@@ -1,7 +1,7 @@
 # Raket-to-C_Interpreter
 Converting a Racket interpreter to C using ParenthC interpreter
 
-The Racket interpreter is translated into new state by the following three transformations:
+The Racket interpreter is translated into a new state by the following three transformations:
 -------------------------------------------------------------------------------------------
 1] Continuation passing style  
 2] Registerization  
